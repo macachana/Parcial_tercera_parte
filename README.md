@@ -1,4 +1,4 @@
-# Parcial_tercera_y_cuarta_parte
+# Parcial_tercera_parte
 
 ![imagen_parcial_tercera_parte](https://github.com/macachana/Parcial_tercera_parte/assets/123892029/d3a2258e-5a8b-4ba9-893e-692e6fbe9d59)
 
@@ -14,6 +14,8 @@ En cambio, si el interruptor esta del lado de "números primos", mostrara la tem
 
 ## Link al tinkercad
 [proyecto](https://www.tinkercad.com/things/fvJ3ycH5pnZ-copy-of-parcial-segunda-parte-c/editel?sharecode=-mfQk-u3Go8Tkho2NDIbF5XgKwZcr2CRchHYNOXAujw)
+
+# Parcial_cuarta_parte
 
 ![imagen_cuarta_parte](https://github.com/macachana/Parcial_tercera_parte/assets/123892029/39d808bc-b2ba-40ac-b84c-9a823063c906)
 
